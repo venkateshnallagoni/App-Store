@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.tab-style {
+  background-color: transparent;
+  color: black;
+}
+.tab-item {
+  list-style-type: none;
+  margin: 10px;
+}
+.active-tb-style {
+  text-decoration: underline;
+  background-color: blue;
+  color: green;
+}

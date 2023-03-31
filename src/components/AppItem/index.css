@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.app-img {
+  width: 100px;
+}
+.app-name {
+  color: black;
+}
+.app-item {
+  list-style-type: none;
+  margin: 15px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 10px;
+}
